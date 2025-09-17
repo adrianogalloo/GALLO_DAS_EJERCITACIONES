@@ -1,0 +1,14 @@
+C:\Users\miste\source\repos\AutorrepasoPoo1\AutorrepasoPoo1\bin\Debug\net8.0\AutorrepasoPoo1.exe
+C:\Users\miste\source\repos\AutorrepasoPoo1\AutorrepasoPoo1\bin\Debug\net8.0\AutorrepasoPoo1.deps.json
+C:\Users\miste\source\repos\AutorrepasoPoo1\AutorrepasoPoo1\bin\Debug\net8.0\AutorrepasoPoo1.runtimeconfig.json
+C:\Users\miste\source\repos\AutorrepasoPoo1\AutorrepasoPoo1\bin\Debug\net8.0\AutorrepasoPoo1.dll
+C:\Users\miste\source\repos\AutorrepasoPoo1\AutorrepasoPoo1\bin\Debug\net8.0\AutorrepasoPoo1.pdb
+C:\Users\miste\source\repos\AutorrepasoPoo1\AutorrepasoPoo1\obj\Debug\net8.0\AutorrepasoPoo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miste\source\repos\AutorrepasoPoo1\AutorrepasoPoo1\obj\Debug\net8.0\AutorrepasoPoo1.AssemblyInfoInputs.cache
+C:\Users\miste\source\repos\AutorrepasoPoo1\AutorrepasoPoo1\obj\Debug\net8.0\AutorrepasoPoo1.AssemblyInfo.cs
+C:\Users\miste\source\repos\AutorrepasoPoo1\AutorrepasoPoo1\obj\Debug\net8.0\AutorrepasoPoo1.csproj.CoreCompileInputs.cache
+C:\Users\miste\source\repos\AutorrepasoPoo1\AutorrepasoPoo1\obj\Debug\net8.0\AutorrepasoPoo1.dll
+C:\Users\miste\source\repos\AutorrepasoPoo1\AutorrepasoPoo1\obj\Debug\net8.0\refint\AutorrepasoPoo1.dll
+C:\Users\miste\source\repos\AutorrepasoPoo1\AutorrepasoPoo1\obj\Debug\net8.0\AutorrepasoPoo1.pdb
+C:\Users\miste\source\repos\AutorrepasoPoo1\AutorrepasoPoo1\obj\Debug\net8.0\AutorrepasoPoo1.genruntimeconfig.cache
+C:\Users\miste\source\repos\AutorrepasoPoo1\AutorrepasoPoo1\obj\Debug\net8.0\ref\AutorrepasoPoo1.dll
